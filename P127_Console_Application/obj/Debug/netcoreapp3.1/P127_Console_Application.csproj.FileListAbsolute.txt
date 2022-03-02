@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\P127_Console_Application\P127_Console_Application\bin\Debug\netcoreapp3.1\P127_Console_Application.exe
+C:\Users\Lenovo\source\repos\P127_Console_Application\P127_Console_Application\bin\Debug\netcoreapp3.1\P127_Console_Application.deps.json
+C:\Users\Lenovo\source\repos\P127_Console_Application\P127_Console_Application\bin\Debug\netcoreapp3.1\P127_Console_Application.runtimeconfig.json
+C:\Users\Lenovo\source\repos\P127_Console_Application\P127_Console_Application\bin\Debug\netcoreapp3.1\P127_Console_Application.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\P127_Console_Application\P127_Console_Application\bin\Debug\netcoreapp3.1\P127_Console_Application.dll
+C:\Users\Lenovo\source\repos\P127_Console_Application\P127_Console_Application\bin\Debug\netcoreapp3.1\P127_Console_Application.pdb
+C:\Users\Lenovo\source\repos\P127_Console_Application\P127_Console_Application\obj\Debug\netcoreapp3.1\P127_Console_Application.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\P127_Console_Application\P127_Console_Application\obj\Debug\netcoreapp3.1\P127_Console_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\P127_Console_Application\P127_Console_Application\obj\Debug\netcoreapp3.1\P127_Console_Application.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\P127_Console_Application\P127_Console_Application\obj\Debug\netcoreapp3.1\P127_Console_Application.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\P127_Console_Application\P127_Console_Application\obj\Debug\netcoreapp3.1\P127_Console_Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\P127_Console_Application\P127_Console_Application\obj\Debug\netcoreapp3.1\P127_Console_Application.dll
+C:\Users\Lenovo\source\repos\P127_Console_Application\P127_Console_Application\obj\Debug\netcoreapp3.1\P127_Console_Application.pdb
+C:\Users\Lenovo\source\repos\P127_Console_Application\P127_Console_Application\obj\Debug\netcoreapp3.1\P127_Console_Application.genruntimeconfig.cache
